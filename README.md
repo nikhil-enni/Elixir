@@ -35,3 +35,5 @@ Steps to be followed:
 Please refer to the document in the repository for more details 
 Note: Twitter scraping bot file is present in the repository
 Database file is also attached
+
+Group members: enni.s@northeastern.edu , yadamreddy.v@northeastern.edu
